@@ -30,13 +30,13 @@ export default function Footer() {
           <p>
             <a href="tel:+201020453469">
               <FaPhone />
-              <span>+20 102 045 3469</span>
+              <span>{translations.phone1}</span>
             </a>
           </p>
           <p>
             <a href="tel:+201063254311">
               <FaPhone />
-              <span>+20 106 325 4311</span>
+              <span>{translations.phone2}</span>
             </a>
           </p>
         </div>
