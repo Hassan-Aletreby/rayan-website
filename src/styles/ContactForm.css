@@ -108,8 +108,14 @@
     .contact-form select,
     .contact-form textarea {
         width: 100%;
+        max-width: 100%;
         font-size: 15px;
         padding: 12px;
+    }
+    .service{
+        width: 100%;
+        max-width: 100%;
+        font-size: 12px;
     }
 
     .submit-btn {

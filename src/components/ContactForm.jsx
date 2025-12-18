@@ -143,7 +143,7 @@ export default function ContactForm() {
                 onChange={handleChange}>
                 <option value="">{t.service}</option>
                 {services.map((s) => (
-                  <option key={s.key} value={s.key}>
+                  <option key={s.key} value={s.key} className="service">
                     {s.value}
                   </option>
                 ))}
