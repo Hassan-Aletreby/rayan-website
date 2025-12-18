@@ -74,6 +74,10 @@
 }
 
 @media (max-width: 768px) {
+    .contact-section {
+            padding: 0;
+            margin: 50px 0;
+        }
             .contact__sub {
                 grid-template-columns: 1fr;
                 gap: 30px;
