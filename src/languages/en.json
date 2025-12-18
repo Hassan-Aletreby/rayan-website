@@ -1,0 +1,239 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact Us",
+    "gallery": "Gallery",
+    "farms": "Our Farms",
+    "partners": "Our Partners",
+    "location": "Location",
+    "Rayan": "Rayan"
+  },
+  "hero_welcome": "Rayan Agricultural Consulting & Supplies",
+  "hero_subtitle": "Your trusted partner in managing your farm.",
+  "hero_contact": "Contact Us",
+  "section_title": "Your Farm is Our Priority",
+  "section_text": "We provide integrated agricultural solutions with professional management to ensure maximum productivity and long-term sustainability for your farm.",
+  "about_title": "About Rayan",
+  "about_intro": "Rayan Agricultural Services and Consulting was established to provide fully integrated agricultural solutions that combine expertise, precision, and smart farm management.",
+  "about_items": [
+    {
+      "title": "Who We Are",
+      "text": "We work on developing palm farms and various agricultural projects with the highest quality standards to achieve maximum productivity and long-term sustainability."
+    },
+    {
+      "title": "Agricultural Management Plan",
+      "text": [
+        "Accurate periodic monitoring of all farming and production stages.",
+        "Improving irrigation and fertilization efficiency based on soil and crop needs.",
+        "Applying modern management methods to ensure premium crop quality."
+      ]
+    },
+    {
+      "title": "Specialized Services",
+      "text": [
+        "Full farm management including supervision and operations.",
+        "Designing scientifically based irrigation and fertilization programs.",
+        "Providing carefully selected seedlings and palm trees.",
+        "Integrated pest management using advanced protection systems.",
+        "Preparing and renovating farms with top-quality standards."
+      ]
+    },
+    {
+      "title": "Fast Service",
+      "text": "We are committed to delivering tasks quickly while maintaining high accuracy and consistent follow-up."
+    },
+    {
+      "title": "Expert Team",
+      "text": "Rayan includes a group of agricultural engineers and consultants with extensive experience in palm farm management."
+    }
+  ],
+  "services_title": "Our Services",
+  "services_intro": "We provide a wide range of high-quality agricultural services.",
+  "services_list": [
+    {
+      "img": "/images/service1.png",
+      "title": "Farm Consultation Service",
+      "points": [
+        "Accurate technical consultations to improve productivity",
+        "Regular follow-ups and recommendations based on farm condition"
+      ]
+    },
+    {
+      "img": "/images/service2.png",
+      "title": "Full Farm Management Service",
+      "points": [
+        "Comprehensive operational and technical management",
+        "Daily and precise follow-up on all farm activities",
+        "Weekly visits to review performance and ensure quality",
+        "Customized irrigation, fertilization, and pest-control programs"
+      ]
+    },
+    {
+      "img": "/images/service3.png",
+      "title": "Fertilizers & Pesticides Supply Service",
+      "points": [
+        "Supplying trusted and guaranteed agricultural products",
+        "Assistance in choosing the best options for your farm",
+        "Delivery right to your farm’s gate"
+      ]
+    },
+    {
+      "img": "/images/service4.png",
+      "title": "Palm Seedlings & Tissue Culture Supply",
+      "points": [
+        "Providing certified, high-quality seedlings and tissue culture palms",
+        "Selecting suitable varieties based on production goals"
+      ]
+    },
+    {
+      "img": "/images/service5.png",
+      "title": "Farm Visit & Inspection Service",
+      "points": [
+        "Professional on-site inspection and full evaluation",
+        "A detailed report with required actions and recommendations"
+      ]
+    },
+    {
+      "img": "/images/service6.png",
+      "title": "Daily Tasks & Technical Operations Service",
+      "points": [
+        "Executing all agricultural operations with professionalism",
+        "Continuous follow-up to ensure the best results for palm farms"
+      ]
+    }
+  ],
+  "farms": {
+    "title": "Our Farms",
+    "labels": {
+      "location": "Location:",
+      "area": "Area:",
+      "crops": "Crops:"
+    },
+   "list": [
+  {
+    "img": "/images/farms/tahan.jpg",
+    "name": "Al-Tahan Golden Dates Farm",
+    "location": "New Valley – El Kharga City",
+    "area": "280 Feddan",
+    "crops": "Saidi, Barhi, Khadri, Ajwa Al-Madinah, Sukari, Barni"
+  },
+  {
+    "img": "/images/farms/yassin.jpg",
+    "name": "Al-Yassin Farm",
+    "location": "New Valley – El Kharga City",
+    "area": "100 Feddan",
+    "crops": "Saidi, Barhi, Medjool"
+  },
+  {
+    "img": "/images/farms/menia.jpg",
+    "name": "Kheir Misr Farm",
+    "location": "Minya – West of West Minya (Egyptian Countryside Project)",
+    "area": "70 Feddan",
+    "crops": "Saidi, Medjool"
+  },
+  {
+    "img": "/images/farms/kady.jpg",
+    "name": "Al-Kady Farm",
+    "location": "Bahariya Oasis – Al-Harra Area",
+    "area": "100 Feddan",
+    "crops": "Saidi, Medjool"
+  },
+  {
+    "img": "/images/farms/wael.jpg",
+    "name": "Dr. Wael Farawla Farm",
+    "location": "Bahariya Oasis – Al-Harra Area",
+    "area": "80 Feddan",
+    "crops": "Saidi, Medjool"
+  },
+  {
+    "img": "/images/farms/elkhair.jpg",
+    "name": "Al-Kheir Farm",
+    "location": "Bahariya Oasis – Al-Asila Area",
+    "area": "30 Feddan",
+    "crops": "Saidi"
+  },
+  {
+    "img": "/images/farms/abdelaziz.jpg",
+    "name": "Hajj Abdelaziz Al-Hanafi Farm",
+    "location": "Bahariya Oasis – Ain Touni Area",
+    "area": "100 Feddan",
+    "crops": "Medjool, Saidi"
+  },
+  {
+    "img": "/images/farms/noor.jpg",
+    "name": "Resala Noor Ala Noor Association Farm",
+    "location": "Farafra – Sahl Baraka",
+    "area": "150 Feddan",
+    "crops": "Medjool"
+  },
+  {
+    "img": "/images/farms/zebil.jpg",
+    "name": "Zabel Farm",
+    "location": "Mansoura – Belqas City",
+    "area": "10 Feddan",
+    "crops": "Barhi"
+  },
+  {
+    "img": "/images/farms/emam.jpg",
+    "name": "Al-Imam Farm",
+    "location": "Mansoura – Talkha, Damira",
+    "area": "2 Feddan",
+    "crops": "Barhi"
+  },
+  {
+    "img": "/images/farms/qena.jpg",
+    "name": "Engineer Mahmoud Farm",
+    "location": "Qena – Qena–Luxor Road",
+    "area": "60 Feddan",
+    "crops": "Medjool, Barhi"
+  },
+  {
+  "img": "/images/farms/arabic.jpg",
+  "name": "Arab Organization for Agricultural Development",
+  "location": "Minya - West of West Minya",
+  "area": "1000 Feddan",
+  "crops": "Under Construction"
+}
+
+
+]
+
+
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "whatsapp": "WhatsApp Number",
+    "service": "Select Service",
+    "message": "Your Message (Optional)",
+    "send": "Send",
+    "required": "This field is required",
+    "emailInvalid": "Invalid email address",
+    "success": "Message sent successfully",
+    "error": "Please check the form",
+    "services": {
+  "consulting": "خدمة الاستشارات الزراعية",
+  "management": "خدمة الإدارة الكاملة للمزرعة",
+  "supply": "خدمة توريد الأسمدة والمبيدات",
+  "palm": "خدمة توريد فسائل وأنسجة النخيل",
+  "visit": "خدمة الزيارة والمعاينة للمزرعة",
+  "daily": "خدمة إنجاز المهام اليومية والعمليات الفنية"
+}
+  },
+  "partners": {
+    "title": "Our Partners",
+    "desc": "We are proud to collaborate with leading companies to deliver high-quality services and outstanding results."
+  },
+  "location_section_title": "Our Location",
+  "location_popup_text": "Click to get directions",
+  "get_directions_button": "Go to Maps",
+  "facebook": "Facebook",
+  "watsapp": "WhatsApp",
+  "instagram": "Instagram"
+  ,"linkedin": "LinkedIn"
+}
