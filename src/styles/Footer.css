@@ -83,11 +83,6 @@
 }
 
 
-/* =========================
-   Responsive Footer
-========================= */
-
-/* تابلت */
 @media (max-width: 992px) {
     .footer-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -96,7 +91,6 @@
     }
 }
 
-/* موبايل */
 @media (max-width: 576px) {
     .footer-grid {
         grid-template-columns: 1fr;

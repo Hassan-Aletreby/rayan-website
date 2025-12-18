@@ -24,7 +24,7 @@ export default function Footer() {
           <p>
             <a href="mailto:info@rayan.com">
               <FaEnvelope />
-              <span>r45191246@gmail@gmail.com</span>
+              <span>r45191246@gmail.com</span>
             </a>
           </p>
           <p>
