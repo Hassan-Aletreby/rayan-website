@@ -238,5 +238,7 @@
   "facebook": "Facebook",
   "watsapp": "WhatsApp",
   "instagram": "Instagram"
-  ,"linkedin": "LinkedIn"
+  ,"linkedin": "LinkedIn",
+  "footer_credit_text": "Website designed and developed by",
+  "hassan" : "Hassan Aletreby"
 }

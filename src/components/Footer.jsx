@@ -76,6 +76,17 @@ export default function Footer() {
           </a>
         </div>
       </div>
+      <div className="footer-credits">
+        <p>
+          {translations.footer_credit_text}{" "}
+          <a
+            href="https://hassanahmedportfolio.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer">
+            {translations.hassan}
+          </a>
+        </p>
+      </div>
     </footer>
   );
 }
