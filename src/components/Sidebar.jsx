@@ -74,7 +74,7 @@ export default function SidebarLinks() {
           title="LinkedIn">
           <FaLinkedin />
         </a>
-        <a href="tel:+201020453469" title="Call Us">
+        <a href="tel:+201030319248" title="Call Us">
           <FaPhone />
         </a>
       </div>
